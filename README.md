@@ -28,16 +28,21 @@ System will start locked and off, to change mode you must unlock the system and 
 2. Lock = 2222
 
 The following modes are available if system is unlocked:
+
 3. Armed = 3333
 4. Silent = 4444
 5. Off = 5555
 
 The following is only available if the system has been triggered:
+
 6. Disarm = 9999
 
 Visual System Behavior:
+
 Green LED = area safe
+
 Yellow LED = object approaching
+
 Red LED = object close
 White solid = silent mode
 Blue LED = Armed mode
