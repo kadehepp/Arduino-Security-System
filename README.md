@@ -26,10 +26,12 @@ Usage Instructions:
 System will start locked and off, to change mode you must unlock the system and use the following pins to navigate modes:
 1. Unlock = 1111    
 2. Lock = 2222
+
 The following modes are available if system is unlocked:
 3. Armed = 3333
 4. Silent = 4444
 5. Off = 5555
+
 The following is only available if the system has been triggered:
 6. Disarm = 9999
 
