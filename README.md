@@ -1,7 +1,7 @@
 # Arduino-Security-System
 A small state based security system that uses a sound and ultrasonic(distance) sensor to detect intrusions, trigger alarms, and provide visual feedback
 
-Goals:
+Goals
      1. real time user interaction and feedback with system
      2. embedded system state management
      3. non blocking timing logic
