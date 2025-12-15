@@ -37,6 +37,7 @@ The following is only available if the system has been triggered:
 
 6. Disarm = 9999
 
+
 Visual System Behavior:
 
 Green LED = area safe
@@ -44,9 +45,13 @@ Green LED = area safe
 Yellow LED = object approaching
 
 Red LED = object close
+
 White solid = silent mode
+
 Blue LED = Armed mode
+
 flashing = alarm triggered
+
 flashinbg white = sound warnings
 
 Features:
