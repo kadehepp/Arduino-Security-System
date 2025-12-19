@@ -72,8 +72,13 @@ Technology Stack:
 6. Finite State Machine
 7. Python->
 
+Limitations:
+1. Single device capability
+2. insecure pin storage
+
 Authors:
 Kade Heppner - kadeheppner@gmail.com - www.linkedin.com/in/kadeheppner
+
 Cade Markwell - 
      
   
