@@ -1,5 +1,5 @@
 # Arduino-Security-System
-A small state based security system that uses a sound and ultrasonic(distance) sensor to detect intrusions, trigger alarms, and provide visual feedback
+A small state based security system that uses a sound and ultrasonic(distance) sensor to detect intrusions, trigger alarms, and provide visual feedback wirelessly to a external python GUI.
 
 Goals:
 1. real time user interaction and feedback with system
@@ -16,11 +16,13 @@ Hardware Requirements:
 7. Jumperwires
 
 Installation Instructions:
+Arduino:
 1. Copy Repository
 2. Download Arduino IDE -> https://www.arduino.cc/en/software/ 
 2. Load Sketch into Arduino IDE
 3. Wire sensors and LED's to respective pins labeled in the sketch (pin 12 = trig, 13 = echo, A0 = sound, 2-6 = LED)
 4. Select board and port to upload
+Python:
 
 Usage Instructions:
 System will start locked and off, to change mode you must unlock the system and use the following pins to navigate modes:
@@ -68,9 +70,10 @@ Technology Stack:
 4. Sound sensor
 5. Serial communication
 6. Finite State Machine
+7. Python->
 
 Authors:
 Kade Heppner - kadeheppner@gmail.com - www.linkedin.com/in/kadeheppner
-(has not confirmed I can add their credentials) - 
+Cade Markwell - 
      
   
